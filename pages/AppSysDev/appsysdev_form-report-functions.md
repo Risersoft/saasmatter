@@ -19,7 +19,7 @@ There are two options to create form/report/functions:
 
 After choosing any one option, the Form/Report/Functions form will appear.  
 
-![](/images/image8_82.jpg)
+![](/images/form-report-function.jpg)
 
 **Applications** ->User can set application for created form.
 
@@ -47,7 +47,7 @@ After choosing any one option, the Form/Report/Functions form will appear.
 
 >Names Tab
 
-![](/images/image8_83.jpg)
+![](/images/namestab.jpg)
 
 **Add Text** ->User can set caption Name for right click option with prefix Add
 
@@ -59,7 +59,7 @@ After choosing any one option, the Form/Report/Functions form will appear.
 
 >Applications Tab
 
-![](/images/image8_84.jpg)
+![](/images/applicationstab.jpg)
 
 **Permission Key** ->User can set permission key for created form.
 
@@ -71,28 +71,28 @@ After choosing any one option, the Form/Report/Functions form will appear.
 
 **AddXML** ->User can set condition for right click menu for add form.
 
-![](/images/image8_85.jpg)
+![](/images/AddXML.jpg)
 
 **EditsysXML**->User can set condition for showing edit right click option.
 
-![](/images/image8_86.jpg)
+![](/images/EditsysXML.jpg)
 
 **Grid Condition** ->User can set condition for visible right click option on views
 
-![](/images/image8_87.jpg)
+![](/images/formreportfunctiongridcondition.jpg)
 
 >Children Tab
 
-![](/images/image8_88.jpg)
+![](/images/formreportfunctionchildrentab.jpg)
 
 ## List
 
 Click on AppSystem -> Form/Report/Functions
 
-![](/images/image8_89.jpg)
+![](/images/formreportfunctionlist.jpg)
 
 ## Edit
 
 Click on AppSystem ->Form/Report/Functions ->Right Click ->Edit Form/Report/Func
 
-![](/images/image8_90.jpg)
+![](/images/editformreportfunction.jpg)

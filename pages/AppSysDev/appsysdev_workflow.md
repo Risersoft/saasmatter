@@ -12,9 +12,9 @@ comments: false
 
 ## Create
 
-Click on New->WorkFlow
+Click on **New->WorkFlow**
 
-![](/images/image8_109.jpg)
+![](/images/createworkflow.jpg)
 
 **Applications** ->User can select application in this block.
 
@@ -38,32 +38,32 @@ Click on New->WorkFlow
 
 >Elems Tab
 
-![](/images/image8_110.jpg)
+![](/images/workflowelems.jpg)
 
 >DataXML Tab
 
 **SysEntXML** —>User can set sysid field in this block.
 
-![](/images/image8_111.jpg)
+![](/images/workflowsysentxml.jpg)
 
 **Grid Condition** ->User can set Grid condition on view in this block.
 
-![](/images/image8_112.jpg)
+![](/images/workflowgridcondition.jpg)
 
 **View Condition** ->user can set view like grid condition in this block.
 
 >Children Tab
 
-![](/images/image8_113.jpg)
+![](/images/workflowchildrentab.jpg)
 
 ## List
 
-Click on  Appsystem->WorkFlow
+Click on  **Appsystem->WorkFlow**
 
-![](/images/image8_114.jpg)
+![](/images/workflowlist.jpg)
 
 ##  Edit
 
-Click on Appsystem->WorkFlows->Right Click->Edit WorkFlow
+Click on **Appsystem->WorkFlows->Right Click->Edit WorkFlow**
 
-![](/images/image8_115.jpg)
+![](/images/workflowedit.jpg)

@@ -18,7 +18,7 @@ There are two options to create applications:
 
 After choosing any one option, the application form will appear.
 
-![](/images/image8_1.jpg)
+![](/images/application.jpg)
 
 >Application Options Tab
 
@@ -58,7 +58,7 @@ After choosing any one option, the application form will appear.
 
 User can define application menu’s here in XML format.
 
-!![](/images/image8_2.jpg)
+!![](/images/menudefinitiontab.jpg)
 
 ##### **Body Syntax**->
 
@@ -163,16 +163,17 @@ STYLE -Need to set MNU for Menu and BUT for SubMenu.
 
 **VIEW KEY**->User can set View name which is define in table Clientviews.
 
-    E.g.->ListgstComp
+    E.g-> ListgstComp
+	
 **Output**->
 
 
-![](/images/image8_3.jpg)
+![](/images/viewapplication.jpg)
 
 
 >Info Tab
 
-![](/images/image8_4.jpg)
+![](/images/infotab.jpg)
 
 **StartUp Tool**->Set Menu keys for default output when application run.
 
@@ -198,17 +199,17 @@ This is defined in MenuDefinition.
 
 **CommonMenu**->Marked for Showing Default common Menu’s.
 
-![](/images/image8_5.jpg)
+![](/images/commonmenu.jpg)
 
 
 ## List
 
 Click on AppSystem -> Applications
 
-![](/images/image8_6.jpg)
+![](/images/applicationslist.jpg)
 
 ## Edit
 
 Click on AppSystem -> Applications->Right Click->Edit In App Editor
 
-![](/images/image8_7.jpg)
+![](/images/editapplication.jpg)

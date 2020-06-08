@@ -14,7 +14,7 @@ comments: false
 
 Click on New-> New Navigation
 
-![](/images/image8_91.jpg)
+![](/images/navigation.jpg)
 
 **Application** ->User can select application in this block.
 **
@@ -34,7 +34,7 @@ Click on New-> New Navigation
 
 **Menu Tag** ->User can menu definition for navigation in this block.
 
-![](/images/image8_92.jpg)
+![](/images/menutag.jpg)
 
 **Menu Category** ->User can set menu category in this block like
 Nav for navigation.
@@ -47,17 +47,17 @@ Currently using three type of navigation.
 
 **(iii)**.editfrm->For Edit Option  
 
-![](/images/image8_93.jpg)
+![](/images/menucategory.jpg)
 
 > Conditions Tab
 
-![](/images/image8_94.jpg)
+![](/images/conditionstab.jpg)
 
 **View Condition** ->User can set view in this block.Created navigation Showing on only this.
 
 >DataXML Tab  
 
-![](/images/image8_95.jpg)
+![](/images/dataxmltab.jpg)
 
 **SysEntXML**->User can set Idfield in this block, Created Navigation visible only if this idfield available on view.
 
@@ -69,16 +69,16 @@ Currently using three type of navigation.
 
 >Children Tab
 
-![](/images/image8_96.jpg)
+![](/images/navigationchildrentab.jpg)
 
 ##  List
 
 Click on Appsystem->Navigation
 
-![](/images/image8_97.jpg)
+![](/images/navigationlist.jpg)
 
 ## Edit
 
 Click on Appsystem->Navigation->Right Click->Edit Navigation
 
-![](/images/image8_98.jpg)
+![](/images/editnavigation.jpg)
