@@ -77,6 +77,26 @@ entries:
     url: /web-development-workflow/vsave.html
     folderitems:
     -
+    
+  - title: Upload File to BLOB Storage
+    output: single
+    url: /web-development-workflow/upload-file-to-blob-storage.html
+    folderitems:
+    - 
+    
+  - title: Download File From BLOB Storage
+    output: single
+    url: /web-development-workflow/download-file-from-blob-storage.html
+    folderitems:
+    - 
+
+  - title: Delete Entity
+    output: single
+    url: /web-development-workflow/delete-entity.html
+    folderitems:
+    - 
+   
+    
   - title: Workflow Diagram
     output: single
     url: /web-development-workflow/first.html
