@@ -95,11 +95,35 @@ entries:
     url: /web-development-workflow/delete-entity.html
     folderitems:
     - 
-   
+    
+
     
   - title: Workflow Diagram
     output: single
     url: /web-development-workflow/first.html
     folderitems:
     -
+  - title: Auth Service
+    output: single
+    url: /web-development-workflow/auth-service.html
+    folderitems:
+    - 
+    
+  - title: IIS Web Server Setup
+    output: single
+    url: /web-development-workflow/iis-web-server-setup.html
+    folderitems:
+    - 
+    
+  - title: IIS Configuration – For Hosted Agent
+    output: single
+    url: /web-development-workflow/iis-configuration-for-hosted-agent.html
+    folderitems:
+    - 
+    
+  - title: Code Project Setup
+    output: single
+    url: /web-development-workflow/code-project-setup.html
+    folderitems:
+    -   
     

@@ -20,3 +20,6 @@ entries:
     - title: Web Development Workflow
       url: /web-development-workflow/introduction.html
       output: single
+    - title: Windows Development Workflow
+      url: /windows-development-workflow/introduction.html
+      output: single
