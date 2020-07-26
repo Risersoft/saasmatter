@@ -1,9 +1,9 @@
 ---
 title: IIS Configuration – For Hosted Agent
 keywords: IIS Configuration – For Hosted Agent
-sidebar: mvcwf_sidebar
-permalink: web-development-workflow/iis-configuration-for-hosted-agent.html
-folder: Workflow
+sidebar: codeenv_sidebar
+permalink: code-environment-setup/iis-configuration-for-hosted-agent.html
+folder: CodeEnvSetup
 hide_sidebar: false
 comments: false
 ---

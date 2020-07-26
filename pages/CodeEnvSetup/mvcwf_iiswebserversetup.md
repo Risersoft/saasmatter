@@ -1,9 +1,9 @@
 ---
 title: IIS - Web Server Setup
 keywords: IIS - Web Server Setup
-sidebar: mvcwf_sidebar
-permalink: web-development-workflow/iis-web-server-setup.html
-folder: Workflow
+sidebar: codeenv_sidebar
+permalink: code-environment-setup/iis-web-server-setup.html
+folder: CodeEnvSetup
 hide_sidebar: false
 comments: false
 ---

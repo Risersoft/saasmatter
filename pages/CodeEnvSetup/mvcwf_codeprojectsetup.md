@@ -1,9 +1,9 @@
 ---
 title: Code Project Setup
 keywords: Code Project Setup
-sidebar: mvcwf_sidebar
-permalink: web-development-workflow/code-project-setup.html
-folder: Workflow
+sidebar: codeenv_sidebar
+permalink: code-environment-setup/code-project-setup.html
+folder: CodeEnvSetup
 hide_sidebar: false
 comments: false
 ---

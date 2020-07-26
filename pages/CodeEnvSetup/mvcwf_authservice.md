@@ -1,9 +1,9 @@
 ---
 title: Auth Service
 keywords: Auth Service
-sidebar: mvcwf_sidebar
-permalink: web-development-workflow/auth-service.html
-folder: Workflow
+sidebar: codeenv_sidebar
+permalink: code-environment-setup/auth-service.html
+folder: CodeEnvSetup
 hide_sidebar: false
 comments: false
 ---

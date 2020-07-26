@@ -35,5 +35,7 @@ topnav_dropdowns:
           url: /web-development-workflow/introduction.html
         - title: Windows Development Workflow
           url: /windows-development-workflow/introduction.html
+        - title: Code and Environment Setup
+          url: /code-environment-setup/introduction.html
         
           

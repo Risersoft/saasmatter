@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: Windows Development Workflow
+  product: Code and Environment Setup
   
   folders:
 
@@ -22,32 +22,32 @@ entries:
 
   - title: Introduction
     output: single
-    url: /windows-development-workflow/introduction.html
+    url: /code-environment-setup/introduction.html
     folderitems:
     -
     
-  - title: Pattern 1
+  - title: Auth Service
     output: single
-    url: /windows-development-workflow/pattern1.html
+    url: /code-environment-setup/auth-service.html
     folderitems:
-    -
+     - 
     
-  - title: Pattern 3
+  - title: IIS Web Server Setup
     output: single
-    url: /windows-development-workflow/pattern3.html
+    url: /code-environment-setup/iis-web-server-setup.html
     folderitems:
-    -
+    - 
     
-  - title: Pattern 4
+  - title: IIS Configuration – For Hosted Agent
     output: single
-    url: /windows-development-workflow/pattern4.html
+    url: /code-environment-setup/iis-configuration-for-hosted-agent.html
     folderitems:
-    -
+    - 
     
-  - title: Steps For Run HRMNirvana as Self Host Mode
+  - title: Code Project Setup
     output: single
-    url: /windows-development-workflow/steps-for-run-hrmnirvana-as-self-host-mode.html
+    url: /code-environment-setup/code-project-setup.html
     folderitems:
-    -
+    -   
 
- 
+  
