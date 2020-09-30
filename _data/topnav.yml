@@ -23,7 +23,7 @@ topnav_dropdowns:
         - title: Publisher
           external_url: http://www.risersoft.com/
         
-    - title: Products
+    - title: Modules
       folderitems:
         - title: Registration Portal 
           url: /registration-portal/introduction.html
@@ -37,5 +37,7 @@ topnav_dropdowns:
           url: /windows-development-workflow/introduction.html
         - title: Code and Environment Setup
           url: /code-environment-setup/introduction.html
+        - title: Database Development Workflow
+          url: /db-development-workflow/introduction.html
         
           

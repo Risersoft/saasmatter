@@ -56,7 +56,7 @@
                 </li>
                 
                 <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modules<b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         
                         
@@ -68,8 +68,10 @@
 						
 						<li><a href="appsystem-developer/introduction.html">AppSystem Developer</a></li>
 						<li><a href="web-development-workflow/introduction.html">Web Development Workflow</a></li>
-                        <li><a href="windows-development-workflow/introduction.html">Windows Development Workflow</a></li>
+						<li><a href="windows-development-workflow/introduction.html">Windows Development Workflow</a></li>
 						<li><a href="code-environment-setup/introduction.html">Code and Environment Setup</a></li>
+						<li><a href="db-development-workflow/introduction.html">Database Development Workflow</a></li>
+                        
                         
                     </ul>
                 </li>
@@ -80,7 +82,7 @@
 
 
 
-  <a class="email" title="Submit feedback" target="_blank" href="#" onclick="javascript:window.location='mailto:info@risersoft.com?subject=Apps Framework Documentation feedback&body=I have some feedback about the HRM Nirvana page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
+  <a class="email" title="Submit feedback" target="_blank" href="#" onclick="javascript:window.location='mailto:info@risersoft.com?subject=Apps Framework Documentation feedback&body=I have some feedback about the Apps Framework page: ' + window.location.href;"><i class="fa fa-envelope-o"></i> Feedback</a>
 
 </li>
 
@@ -92,13 +94,13 @@
                         <input type="text" id="search-input" placeholder="search...">
                         <ul id="results-container"></ul>
                     </div>
-                    <script src="/js/jekyll-search.js" type="text/javascript"></script>
+                    <script src="js/jekyll-search.js" type="text/javascript"></script>
                     <script type="text/javascript">
                             SimpleJekyllSearch.init({
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
-                                dataSource: '/search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="HRM Nirvana">{title}</a></li>',
+                                dataSource: 'search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="Apps Framework">{title}</a></li>',
                     noResultsText: 'No results found.',
                             limit: 10,
                             fuzzy: true,
