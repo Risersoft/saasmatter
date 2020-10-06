@@ -5,7 +5,7 @@ entries:
   levels: one
   folders:
 
-  - title: Products
+  - title: Modules
     output: single
     folderitems:
     - title: Registration Portal 
@@ -14,12 +14,4 @@ entries:
     - title: Admin Portal
       url: /admin-portal/introduction.html
       output: single
-    - title: AppSystem Developer
-      url: /appsystem-developer/introduction.html
-      output: single
-    - title: Web Development Workflow
-      url: /web-development-workflow/introduction.html
-      output: single
-    - title: Windows Development Workflow
-      url: /windows-development-workflow/introduction.html
-      output: single
+ 

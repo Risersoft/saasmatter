@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/Risersoft/Appfx
+      external_url: https://github.com/Risersoft/Saasmatter
     - title: Blog
       url: /blog
 
@@ -18,8 +18,6 @@ topnav_dropdowns:
           external_url: http://appsframework.com/
         - title: Admin Portal
           external_url: http://appsframework.com/
-        - title: AppSystemDeveloper
-          external_url: http://appsframework.com/
         - title: Publisher
           external_url: http://www.risersoft.com/
         
@@ -29,15 +27,6 @@ topnav_dropdowns:
           url: /registration-portal/introduction.html
         - title: Admin Portal
           url: /admin-portal/introduction.html
-        - title: AppSystem Developer
-          url: /appsystem-developer/introduction.html
-        - title: Web Development Workflow
-          url: /web-development-workflow/introduction.html
-        - title: Windows Development Workflow
-          url: /windows-development-workflow/introduction.html
-        - title: Code and Environment Setup
-          url: /code-environment-setup/introduction.html
-        - title: Database Development Workflow
-          url: /db-development-workflow/introduction.html
+        
         
           
