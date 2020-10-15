@@ -25,5 +25,120 @@ entries:
     url: /admin-portal/introduction.html
     folderitems:
     -
+  - title: New Menu
+    output: web
+    url: /admin-portal/new-menu.html
+    folderitems:
+ 
+    - title: Account
+      output: web
+      url: /admin-portal/account.html
+      
+
+    - title: Product
+      url: /admin-portal/product.html
+      output: web
+
+    - title: Publisher DB
+      url: /admin-portal/publisher-DB.html
+      output: web
+      
+    - title: Import Users
+      url: /admin-portal/import-users.html
+      output: web
+      
+  - title: Publisher Menu
+    output: web
+    url: /admin-portal/publisher-menu.html
+    folderitems:
+ 
+    - title: Publisher
+      url: /admin-portal/publisher.html
+      output: web
+
+    - title: Published Apps
+      url: /admin-portal/published-apps.html
+      output: web
+
+    - title: Product
+      url: /admin-portal/publisher-product.html
+      output: web
+      
+    - title: Tier
+      url: /admin-portal/publisher-tier.html
+      output: web
+      
+    - title: Exceptions
+      url: /admin-portal/publisher-exception.html
+      output: web
+
+    - title: Organizations
+      url: /admin-portal/publisher-organisation.html
+      output: web
+
+    - title: Partners
+      url: /admin-portal/publisher-partner.html
+      output: web
+      
+    - title: Publisher DB
+      url: /admin-portal/publisher-publisher-DB.html
+      output: web
+      
+    - title: Publisher Env
+      url: /admin-portal/publisher-publisher-env.html
+      output: web
+      
+    - title: Bots
+      url: /admin-portal/publisher-bots.html
+      output: web
+      
+  - title: Tenant Menu
+    output: web
+    url: /admin-portal/tenant-menu.html
+    folderitems:
+ 
+    - title: Accounts
+      url: /admin-portal/tenant-accounts.html
+      output: web
+
+    - title: Activation Info
+      url: /admin-portal/tenant-activation-info.html
+      output: web
+
+    - title: Coupons
+      url: /admin-portal/tenant-coupons.html
+      output: web
+      
+    - title: License Info
+      url: /admin-portal/tenant-license-info.html
+      output: web
+      
+    - title: Reminders
+      url: /admin-portal/tenant-reminders.html
+      output: web
+
+    - title: Transaction Details
+      url: /admin-portal/tenant-transaction-details.html
+      output: web
+
+    - title: Users
+      url: /admin-portal/tenent-users.html
+      output: web
+      
+    - title: License
+      url: /admin-portal/tenant-license.html
+      output: web
+      
+    - title: PostOfficeLog
+      url: /admin-portal/tenant-postofficelog.html
+      output: web
+      
+    - title: Session Detail
+      url: /admin-portal/tenant-session-details.html
+      output: web
+      
+    - title: Import Users
+      url: /admin-portal/tenant-import-users.html
+      output: web
 
   
