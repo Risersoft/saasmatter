@@ -10,11 +10,13 @@ comments: false
 
 # License Info
 
-To see the listing of License Info, click on **Tenant Menu - > License Info**.
+## List
+
+To see the listing of License Info, click on **Publisher Menu - > License Info -> List of License Info**.
 
 ![](/images/TenLicenseInfo.png)
 
-## Right Click Options
+## Edit
 
 You can **edit** product by right click on **license info**.
 

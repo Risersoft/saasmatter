@@ -10,6 +10,8 @@ comments: false
 
 # PostOfficeLog
 
-To see the listing of PostOfficeLog, click on **Tenant Menu - > PostOfficeLog**.
+## List
+
+To see the listing of PostOfficeLog, click on **Tenant Menu - >Logs -> PostOfficeLog**.
 
 ![](/images/TenPostOfficeLog.png)

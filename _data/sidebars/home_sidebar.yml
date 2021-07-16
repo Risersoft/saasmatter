@@ -7,7 +7,10 @@ entries:
 
   - title: Modules
     output: single
-    folderitems:
+    folderitems:    
+    - title: Getting Started 
+      url: /get-start/intro.html
+      output: single    
     - title: Registration Portal 
       url: /registration-portal/introduction.html
       output: single

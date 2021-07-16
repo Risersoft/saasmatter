@@ -10,11 +10,25 @@ comments: false
 
 # Users
 
+## Import Users
+
+To import users through excel template, click on **Tenant Menu -> Users -> Import Users**.
+
+![](/images/ImportFile.png)
+
+Download the template, fill the details in template.
+
+Upload the template -> Task has been started. After Execute message displayed.
+ 
+Click on Click Here link to check users are import successfully or not.
+
+## List
+
 To see the listing of Users, click on **Tenant Menu - > Users**.
 
 ![](/images/TenUsers.png)
 
-## Right Click Options
+## Edit
 
 You can **browse** and **edit** user by right click on **user**.
 

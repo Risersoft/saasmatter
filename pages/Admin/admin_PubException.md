@@ -1,6 +1,6 @@
 ---
-title: Exception
-keywords: Exception
+title: Exceptions
+keywords: Exceptions
 sidebar: admin_sidebar
 permalink: admin-portal/publisher-exception.html
 folder: Admin
@@ -8,8 +8,10 @@ hide_sidebar: false
 comments: false
 ---
 
-# Exception
+# Exceptions
 
-To see the **listing of exceptions**, click on **Publisher Menu - > Exceptions**.
+## List
+
+To see the **listing of exceptions**, click on **Tenant Menu - >Logs -> Exceptions**.
 
 ![](/images/PubException.png)

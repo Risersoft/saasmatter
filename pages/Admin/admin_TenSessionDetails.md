@@ -10,7 +10,9 @@ comments: false
 
 # Session Details
 
-To see the listing of Session Details, click on **Tenant Menu - > Session Details**.
+## List
+
+To see the listing of Session Details, click on **Tenant Menu - >Logs -> Session Details**.
 
 ![](/images/TenSessionDetails.png)
 

@@ -10,4 +10,14 @@ comments: false
 
 # Organisation
 
-To see the listing of organizations, click on **Publisher Menu - > Organizations**.
+## List
+
+To see the listing of organizations, click on **Tenant Menu - >Account ->List of Organizations**.
+
+![](/images/ListofOrganizations.png)
+
+
+
+
+
+

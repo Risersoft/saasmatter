@@ -10,6 +10,8 @@ comments: false
 
 # Coupons
 
+## List
+
 To see the **listing of Coupons**, click on **Tenant Menu - > Coupons**.
 
 ![](/images/TenCoupons.png)

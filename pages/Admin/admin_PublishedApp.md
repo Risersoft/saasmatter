@@ -10,12 +10,22 @@ comments: false
 
 # Published Apps
 
+## List
+
 To see the **listing of published Apps**, click on **Publisher Menu - > Published Apps**.
 
 ![](/images/PublishedApps.png)
 
-## Right Click Options
+## Edit
 
-You can edit and copy publisher and published app by right click on **published App**.
+To edit published app details, **right click on published app -> Edit Published App**.
 
 ![](/images/PublishedAppRightClick.png)
+
+
+## Copy
+
+To copy the details of the published app, **right click on the published app -> Copy Published App**.
+
+
+

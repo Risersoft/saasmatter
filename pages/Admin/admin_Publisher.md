@@ -10,12 +10,22 @@ comments: false
 
 # Publisher
 
+## List
+
 To see the listing of publisher, click on **Publisher Menu - > Publisher**.
 
 ![](/images/Publisher.png)
 
-## Right Click Options
+## Edit
 
-You can edit and copy publisher by right click on **publisher**.
+Select the **publisher -> Right click -> Edit Publisher**. Publisher form will appear. 
 
 ![](/images/Publisher_1.png)
+
+![](/images/PublisherForm.png)
+
+Edit the details and click on **Save**.
+
+## Copy
+
+To copy the details of the publisher, **right click on the publisher -> Copy Publisher**.

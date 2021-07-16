@@ -14,6 +14,8 @@ topnav_dropdowns:
   folders:
     - title: Help
       folderitems:
+        - title: Saasmatter 
+          external_url: http://www.saasmatter.com/
         - title: Registration Portal 
           external_url: http://appsframework.com/
         - title: Admin Portal
@@ -23,6 +25,8 @@ topnav_dropdowns:
         
     - title: Modules
       folderitems:
+        - title: Getting Started 
+          url: /get-start/intro.html
         - title: Registration Portal 
           url: /registration-portal/introduction.html
         - title: Admin Portal

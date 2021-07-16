@@ -10,11 +10,13 @@ comments: false
 
 # Bots
 
-To see the **listing of Bots**, click on **Publisher Menu - > Bots**.
+## List
+
+To see the listing of Bots, click on **Publisher Menu - > Bots**.
 
 ![](/images/PubBots.png)
 
-## Right Click Options
+## Edit
 
 You can edit bot, product and publisher by right click on **bots**.
 

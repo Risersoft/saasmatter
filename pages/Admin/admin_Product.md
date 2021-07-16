@@ -12,9 +12,11 @@ comments: false
 
 ## Create
 
-To create product, click on **New Menu -> Product**. Form will appear. Fill the details.
+To create product, click on **Publisher Menu -> Product -> New Product**. Form will appear. Fill the details.
 
 ![](/images/Product_Create.png)
+
+![](/images/Product_Form.png)
 
 ### Tier
 
@@ -40,11 +42,11 @@ To add bots, click on **Bots Tab -> Add New**. Fill the details and click on **S
 
 ![](/images/Bots.png)
 
-After feeding details in tabs -> Click on **Save**.
+After entering details in tabs -> Click on **Save**.
 
 ## List
 
-To check the **listing of products** created, click on **Publisher Menu -> Product**. List will appear.
+To check the **listing of products** created, click on **Publisher Menu -> Product -> List of Products**. List will appear.
 
 ![](/images/Product_List.png)
 

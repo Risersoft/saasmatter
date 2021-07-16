@@ -10,12 +10,30 @@ comments: false
 
 # Publisher DB
 
-To see the listing of publisher DB, click on **Publisher Menu - > Publisher DB**.
+## Create
 
-![](/images/PubPublisherDB.png)
+To create **publisher DB**, click on **Publisher Menu ->New Publisher DB**. Form will appear. Fill the details.
 
-## Right Click Options
+![](/images/PublisherDB_Create.png)
 
-You can **edit** and **copy** publisher DB by right click on **published DB**.
+![](/images/PublisherDB_Form.png)
 
-![](/images/PubPublisherDBRightClick.png)
+Click on **Save**.
+
+## List
+
+To check the **listing of publisher DB** created, click on **Publisher Menu -> Publisher DB -> List of Publisher DB**. List will appear.
+
+![](/images/PublisherDB_List.png)
+
+## Edit
+
+To edit publisher DB details, right click on **publisher DB -> Edit Publisher DB**.
+
+![](/images/PublisherDB_Edit.png)
+
+## Copy
+
+To copy the details of the publisher DB, right click on the **publisher DB -> Copy**.
+
+![](/images/PublisherDB_Copy.png)

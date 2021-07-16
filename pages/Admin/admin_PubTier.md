@@ -10,12 +10,14 @@ comments: false
 
 # Tier
 
+## List
+
 To see the listing of products tier, click on **Publisher Menu - > Tier**.
 
 ![](/images/PubTier.png)
 
-## Right Click Options
+## Edit
 
-You can **edit** tier by right click on **tier**.
+You can edit tier by **right click on tier -> Edit product -> Tier tab** in form.
 
 ![](/images/PubTierRightClick.png)
